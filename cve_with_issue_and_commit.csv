@@ -1,0 +1,204 @@
+﻿cve_id,status,repo_url,issues,commits_sha,commits_sha_begin,std_version,edition,备注
+CVE-2018-1000657,rust-lang,https://github.com/rust-lang/rust,https://github.com/rust-lang/rust/issues/44800,f71b37bc28326e272a37b938e835d4f99113eec2,,1.20.0,,1.21.0
+CVE-2019-1010299,rust-lang,https://github.com/rust-lang/rust,https://github.com/rust-lang/rust/issues/53566,b85e4cc8fadaabd41da5b9645c08c68b8f89908d,,1.28.0,,1.29.0
+CVE-2018-20995,完成,https://github.com/gnzlbg/slice_deque,https://github.com/gnzlbg/slice_deque/issues/57,70c87a49451c4dfcb170461ad9c55fe2f104b7b4,,,2018,
+CVE-2018-20996,进行中,https://github.com/crossbeam-rs/crossbeam-epoch,https://github.com/crossbeam-rs/crossbeam-epoch/issues/82,,,,,
+CVE-2019-15543,进行中,https://github.com/gnzlbg/slice_deque,https://github.com/gnzlbg/slice_deque/issues/57,,,,,
+CVE-2019-15547,进行中,https://github.com/jeaye/ncurses-rs,"https://github.com/jeaye/ncurses-rs/issues/172, https://github.com/RustSec/advisory-db/issues/106",,,,,
+CVE-2019-15548,进行中,https://github.com/jeaye/ncurses-rs,"https://github.com/jeaye/ncurses-rs/issues/172, https://github.com/RustSec/advisory-db/issues/106",,,,,
+CVE-2019-15552,进行中,https://github.com/sile/libflate,https://github.com/sile/libflate/issues/35,ffeff7c65deac5a6f886db2a59bcae4e420e4706,,,,
+CVE-2019-15551,完成,https://github.com/servo/rust-smallvec,https://github.com/servo/rust-smallvec/issues/149,f96322b9243405cc82701cc73f1b19313b413ab4,,1.57,,
+CVE-2019-15554,进行中,https://github.com/servo/rust-smallvec,https://github.com/servo/rust-smallvec/issues/149,,,,,
+CVE-2019-15553,完成,https://github.com/Gilnaa/memoffset,https://github.com/Gilnaa/memoffset/issues/9,9a7d4664aaf2e75d457c39140ee67f3a4813811e,31a8de9c2f9b096352c4df3877aa8d3df5b73d07,1.85.0,,
+CVE-2018-20991,完成,https://github.com/servo/rust-smallvec,https://github.com/servo/rust-smallvec/issues/96,1f4025218c4321ea42ad01d80dd6110def2d86d9,26b249075930b46cfafc70b1d18fd0cb35fd2314,1.57,,在commit中有测试代码
+CVE-2019-16882,进行中,https://github.com/Robbepop/string-interner,https://github.com/Robbepop/string-interner/issues/9,04731e101fed08a32942d52790e1c8c6ede61889,ef7a6454baabe7cd3d32b56aefb2768b4be02079,,2021,
+CVE-2019-16881,完成,https://github.com/mvdnes/portaudio-rs,https://github.com/mvdnes/portaudio-rs/issues/20,f282e8c9c37b86859f5a3c3f032cedc6b6a650da,8a1f47d6c4a42eba2221db858206afbb84401b97,,,
+CVE-2019-16880,完成,https://github.com/strake/linea.rs,https://github.com/strake/linea.rs/issues/2,9d2fba1f76d076478b50446e4738c219516e63d8,4588e13e26c9130335a7ebbf5683a6a0679619b6,,,
+CVE-2019-16144,完成,https://github.com/Xudong-Huang/generator-rs,https://github.com/Xudong-Huang/generator-rs/issues/11,25963e871a1b951322f90e4c213472cccb3408f6,,1.73,,
+CVE-2019-16139,完成,https://github.com/llogiq/compact_arena,https://github.com/llogiq/compact_arena/issues/22,eb413b3d47baea8e8a0b9ce2ccd8299b354d3b74,,,2018,
+CVE-2019-16137,完成,https://github.com/mvdnes/spin-rs,https://github.com/mvdnes/spin-rs/issues/65,33b18f40fef77b22d52b5a623136a68c4f9a6073,0df01c9d0c5d42166dc49e903002f53978ef10e5,1.60,,
+CVE-2019-16140,进行中,https://github.com/sagebind/isahc,https://github.com/sagebind/isahc/issues/2,9e9f1fb44114078c000c78c72e691eeb9e7ac260,,,,
+CVE-2020-15254,完成,https://github.com/crossbeam-rs/crossbeam,https://github.com/crossbeam-rs/crossbeam/issues/539,be327d581e8434a2ba41b74affc915f42d8abfcd,,1.61,,
+CVE-2020-27174,进行中,https://github.com/firecracker-microvm/firecracker,https://github.com/firecracker-microvm/firecracker/issues/2177,,,,,
+CVE-2020-35858,进行中,https://github.com/danburkert/prost,https://github.com/danburkert/prost/issues/267,04091d3e745c27590a5f1b7f581793e4159486b5,,,,issue不存在
+CVE-2020-35861,进行中,https://github.com/fitzgen/bumpalo,https://github.com/fitzgen/bumpalo/issues/69,,,,,触发代码复杂
+CVE-2020-35862,完成,https://github.com/myrrlyn/bitvec,https://github.com/myrrlyn/bitvec/issues/55,b8c2ec36dce7aa57445cafba2c4bbb4ba2d664d0,version=0.17.3,,2021,
+CVE-2020-35874,进行中,https://github.com/droundy/internment,https://github.com/droundy/internment/issues/11,,,,,无触发代码
+CVE-2020-35876,进行中,https://github.com/spacejam/rio,https://github.com/spacejam/rio/issues/11,,,,,被删除了
+CVE-2020-35881,进行中,https://github.com/reem/rust-traitobject,https://github.com/reem/rust-traitobject/issues/7,,,,,无触发代码
+CVE-2020-35885,完成,https://github.com/pigeonhands/rust-arch,https://github.com/pigeonhands/rust-arch/issues/2,0c82150105a201036b09e5d4dfdef2b2727476d4,07f707755ae3bfa214654771a3c27d9b82f08ac3,,,
+CVE-2020-35888,完成,https://github.com/sjep/array,https://github.com/sjep/array/issues/1,34380d886168061149af0ee47fe07a74b7ebf4e2,,1.47.0,,
+CVE-2020-35890,完成,https://github.com/maciejhirsz/ordnung,https://github.com/maciejhirsz/ordnung/issues/8,d5811c82b21ac88e0b931cd27852662308b182f4,,1.46.0,,
+CVE-2020-35891,进行中,https://github.com/maciejhirsz/ordnung,https://github.com/maciejhirsz/ordnung/issues/8,,,,,
+CVE-2020-35892,完成,https://github.com/nathansizemore/simple-slab,https://github.com/nathansizemore/simple-slab/issues/2,5e0524c1db836e2192e1cd818848d96937c0b587,,,,
+CVE-2020-35893,进行中,https://github.com/nathansizemore/simple-slab,https://github.com/nathansizemore/simple-slab/issues/2,5e0524c1db836e2192e1cd818848d96937c0b587,,,,
+CVE-2020-35895,完成,https://github.com/arcnmx/stack-rs,https://github.com/arcnmx/stack-rs/issues/4,369e55736f9bd29c37b1712afc2923f4028148c6,,,2018,
+CVE-2020-35898,完成,https://github.com/actix/actix-net,https://github.com/actix/actix-net/issues/160,3f733cd056098d5e8de6ae8da40950500edc881e,,,2021,
+CVE-2020-35900,进行中,https://github.com/raviqqe/array-queue,https://github.com/raviqqe/array-queue/issues/2,,,1.41.0,,未修复
+CVE-2020-35901,完成,https://github.com/actix/actix-web,https://github.com/actix/actix-web/issues/1321,8f9f9348e8163f7dc0ce643ecf2b9d698df41ccc,dede6fef9a50650efdd1ee36b2466911cc1b1950,1.75,,
+CVE-2020-35902,完成,https://github.com/actix/actix-net,https://github.com/actix/actix-net/issues/91,c41b5d8dd4235ccca84d0b687996615c0c64d956,,1.71.1,,
+CVE-2020-35903,完成,https://github.com/elrnv/dync,https://github.com/elrnv/dync/issues/4,6972f94fe82c281f38f4e5b2aff17f9d73d75bdb,,,2018,
+CVE-2020-35924,race condition,https://github.com/mpdn/try-mutex,https://github.com/mpdn/try-mutex/issues/2,,,,,
+CVE-2020-13759,未开始,https://github.com/rust-vmm/vm-memory,https://github.com/rust-vmm/vm-memory/issues/93,,,,,
+CVE-2020-25016,未开始,https://github.com/kornelski/rust-rgb,https://github.com/kornelski/rust-rgb/issues/35,,,,,
+CVE-2020-25795,未开始,https://github.com/bodil/sized-chunks,https://github.com/bodil/sized-chunks/issues/11,,,,,
+CVE-2020-25574,未开始,https://github.com/hyperium/http,https://github.com/hyperium/http/issues/352,,,,,
+CVE-2021-26305,未开始,https://github.com/hrektts/cdr-rs,https://github.com/hrektts/cdr-rs/issues/10,0e6006de464caa331643f86cd2d9ba3b32b09833,,,,
+CVE-2021-26308,未开始,https://github.com/blackbeam/rust-marc,https://github.com/blackbeam/rust-marc/issues/7,6299af0,,,,
+CVE-2020-36203,未开始,https://github.com/diwic/reffers-rs,https://github.com/diwic/reffers-rs/issues/7,6dd7ca0d50f2464df708975cdafcfaeeb6d41c66,,,,
+CVE-2020-36206,未开始,https://github.com/a1ien/rusb,https://github.com/a1ien/rusb/issues/44,,,,,
+CVE-2020-36208,未开始,https://github.com/oliver-giersch/conquer-once,https://github.com/oliver-giersch/conquer-once/issues/3,,,,,
+CVE-2020-36210,未开始,https://github.com/mersinvald/autorand-rs,https://github.com/mersinvald/autorand-rs/issues/5,,,,,
+CVE-2020-36211,未开始,https://github.com/Devolutions/gfwx-rs,https://github.com/Devolutions/gfwx-rs/issues/7,,,,,
+CVE-2020-36215,未开始,https://github.com/AdrienChampion/hashconsing,https://github.com/AdrienChampion/hashconsing/issues/1,,,,,
+CVE-2020-36216,未开始,https://github.com/petabi/eventio,https://github.com/petabi/eventio/issues/33,,,,,
+CVE-2020-36217,未开始,https://github.com/Xudong-Huang/may,https://github.com/Xudong-Huang/may/issues/88,,,,,
+CVE-2020-36220,未开始,https://github.com/video-audio/va-ts,https://github.com/video-audio/va-ts/issues/4,,,,,
+CVE-2021-25900,未开始,https://github.com/servo/rust-smallvec,https://github.com/servo/rust-smallvec/issues/252,5757ac500d4e544485d796b542e4e589749c291b,,,,
+CVE-2021-25901,未开始,https://github.com/khuey/lazy-init,https://github.com/khuey/lazy-init/issues/9,,,,,
+CVE-2021-25905,未开始,https://github.com/Enet4/bra-rs,https://github.com/Enet4/bra-rs/issues/1,aabf5562f8c6374ab30f615b28e0cff9b5c79e5f,,,,
+CVE-2021-25906,未开始,https://github.com/liebharc/basic_dsp,https://github.com/liebharc/basic_dsp/issues/47,,,,,
+CVE-2021-25907,未开始,https://github.com/strake/containers.rs,https://github.com/strake/containers.rs/issues/2,,,,,
+CVE-2021-25908,未开始,https://github.com/cogciprocate/ocl,https://github.com/cogciprocate/ocl/issues/194,,,,,
+CVE-2018-25024,未开始,https://github.com/actix/actix-web,https://github.com/actix/actix-web/issues/289,,,,,
+CVE-2018-25025,未开始,https://github.com/actix/actix-web,https://github.com/actix/actix-web/issues/289,,,,,
+CVE-2018-25026,未开始,https://github.com/actix/actix-web,https://github.com/actix/actix-web/issues/289,,,,,
+CVE-2020-36511,未开始,https://github.com/hinaria/bite,https://github.com/hinaria/bite/issues/1,,,,,
+CVE-2020-36512,未开始,https://github.com/carllerche/buffoon,https://github.com/carllerche/buffoon/issues/2,,,,,
+CVE-2020-36513,未开始,https://github.com/netvl/acc_reader,https://github.com/netvl/acc_reader/issues/1,,,,,
+CVE-2020-36514,未开始,https://github.com/netvl/acc_reader,https://github.com/netvl/acc_reader/issues/1,,,,,
+CVE-2021-45680,未开始,https://github.com/Eolu/vec-const,https://github.com/Eolu/vec-const/issues/1#issuecomment-898908241,,,,,
+CVE-2021-45681,未开始,https://github.com/Connicpu/com-impl,https://github.com/Connicpu/com-impl/issues/1,,,,,
+CVE-2021-45682,未开始,https://github.com/Hexilee/BronzeDB,https://github.com/Hexilee/BronzeDB/issues/1,,,,,
+CVE-2021-45683,未开始,https://github.com/binast/binjs-ref,https://github.com/binast/binjs-ref/issues/460,,,,,
+CVE-2021-45684,未开始,https://github.com/sunrise-choir/flumedb-rs,https://github.com/sunrise-choir/flumedb-rs/issues/10,1b643df85ca4a56f7d96105a9eb35e1b917ee488,,,,
+CVE-2021-45685,未开始,https://github.com/frankmcsherry/columnar,https://github.com/frankmcsherry/columnar/issues/6,,,,,
+CVE-2021-45688,未开始,https://github.com/ash-rs/ash,"https://github.com/ash-rs/ash/issues/354, https://github.com/MaikKlein/ash/issues/354",2c98b6f384a017de031698bd623551a45f24c8f9,,,,
+CVE-2021-45689,未开始,https://github.com/gfx-rs/gfx,https://github.com/gfx-rs/gfx/issues/3567,,,,,
+CVE-2021-45690,未开始,https://github.com/otake84/messagepack-rs,https://github.com/otake84/messagepack-rs/issues/2,,,,,
+CVE-2021-45691,未开始,https://github.com/otake84/messagepack-rs,https://github.com/otake84/messagepack-rs/issues/2,,,,,
+CVE-2021-45692,未开始,https://github.com/otake84/messagepack-rs,https://github.com/otake84/messagepack-rs/issues/2,,,,,
+CVE-2021-45693,未开始,https://github.com/otake84/messagepack-rs,https://github.com/otake84/messagepack-rs/issues/2,,,,,
+CVE-2021-45694,未开始,https://github.com/dyule/rdiff,https://github.com/dyule/rdiff/issues/3,,,,,
+CVE-2021-45703,未开始,https://github.com/tectonic-typesetting/tectonic,https://github.com/tectonic-typesetting/tectonic/issues/752,cdff034e6d93cdfdafd13d8c6956e22fa5a57b79,,,,
+CVE-2021-45704,未开始,https://github.com/metrics-rs/metrics,https://github.com/metrics-rs/metrics/issues/190,8e6daab,,,,
+CVE-2021-45707,未开始,https://github.com/nix-rust/nix,https://github.com/nix-rust/nix/issues/1541,,,,,
+CVE-2021-45709,未开始,https://github.com/shadowsocks/crypto2,https://github.com/shadowsocks/crypto2/issues/27,,,,,
+CVE-2021-45713,未开始,https://github.com/rusqlite/rusqlite,https://github.com/rusqlite/rusqlite/issues/1048,30f8c8c502675011603c4d066396bf317fd49e71,,,,
+CVE-2021-45714,未开始,https://github.com/rusqlite/rusqlite,https://github.com/rusqlite/rusqlite/issues/1048,,,,,
+CVE-2021-45715,未开始,https://github.com/rusqlite/rusqlite,https://github.com/rusqlite/rusqlite/issues/1048,,,,,
+CVE-2021-45716,未开始,https://github.com/rusqlite/rusqlite,https://github.com/rusqlite/rusqlite/issues/1048,,,,,
+CVE-2021-45717,未开始,https://github.com/rusqlite/rusqlite,https://github.com/rusqlite/rusqlite/issues/1048,,,,,
+CVE-2021-45718,未开始,https://github.com/rusqlite/rusqlite,https://github.com/rusqlite/rusqlite/issues/1048,,,,,
+CVE-2021-45719,未开始,https://github.com/rusqlite/rusqlite,https://github.com/rusqlite/rusqlite/issues/1048,,,,,
+CVE-2021-45720,未开始,https://github.com/jeromefroe/lru-rs,https://github.com/jeromefroe/lru-rs/issues/120,,,,,
+CVE-2021-45686,未开始,https://github.com/jblondin/csv-sniffer,https://github.com/jblondin/csv-sniffer/issues/1,,,,,
+CVE-2018-25023,未开始,https://github.com/servo/rust-smallvec,https://github.com/servo/rust-smallvec/issues/126,e64afc8c473d43e375ab42bd33db2d0d4ac4e41b,,,,
+CVE-2021-27376,未开始,https://github.com/smol-rs/nb-connect,https://github.com/smol-rs/nb-connect/issues/1,,,,,
+CVE-2021-27377,未开始,https://github.com/YottaDB/Lang,https://gitlab.com/YottaDB/Lang/YDBRust/-/issues/40,,,,,
+CVE-2021-26951,未开始,https://github.com/tafia/calamine,https://github.com/tafia/calamine/issues/199,,,,,
+CVE-2021-26952,未开始,https://github.com/andrewhickman/ms3d,https://github.com/andrewhickman/ms3d/issues/1,599313b,,,,
+CVE-2021-26954,未开始,https://github.com/qwertz19281/rust_utils,https://github.com/qwertz19281/rust_utils/issues/3,20cb73d,,,,
+CVE-2021-26957,未开始,https://github.com/RustSec/advisory-db,https://github.com/RustSec/advisory-db/issues/653,,,,,
+CVE-2021-26953,未开始,https://github.com/bodoni/postscript,https://github.com/bodoni/postscript/issues/1,8026286,,,,
+CVE-2021-29930,未开始,https://github.com/ibabushkin/arenavec,https://github.com/ibabushkin/arenavec/issues/1,,,,,
+CVE-2021-29931,未开始,https://github.com/ibabushkin/arenavec,https://github.com/ibabushkin/arenavec/issues/1,,,,,
+CVE-2021-29933,未开始,https://github.com/rphmeier/insert_many,https://github.com/rphmeier/insert_many/issues/1,,,,,
+CVE-2021-29934,未开始,https://github.com/uutils/coreutils,https://github.com/uutils/coreutils/issues/1729,5935876f38498b0c1f657d031171eb17028def6f,,,,
+CVE-2021-29935,未开始,https://github.com/SergioBenitez/Rocket,https://github.com/SergioBenitez/Rocket/issues/1534,e325e2fce4d9f9f392761e9fb58b418a48cef8bb,,,,
+CVE-2021-29936,未开始,https://github.com/charles-r-earp/adtensor,https://github.com/charles-r-earp/adtensor/issues/4,,,,,
+CVE-2021-29937,未开始,https://github.com/Yoric/telemetry.rs,https://github.com/Yoric/telemetry.rs/issues/45,2820cf12f2e08645fd6d1f15b4a90a54d6082a81,,,,
+CVE-2021-29938,未开始,https://github.com/gnzlbg/slice_deque,https://github.com/gnzlbg/slice_deque/issues/90,,,,,
+CVE-2021-29939,未开始,https://github.com/Alexhuszagh/rust-stackvector,https://github.com/Alexhuszagh/rust-stackvector/issues/2,,,,,
+CVE-2021-29940,未开始,https://github.com/gretchenfrage/through,https://github.com/gretchenfrage/through/issues/1,,,,,
+CVE-2021-29941,未开始,https://github.com/tiby312/reorder,https://github.com/tiby312/reorder/issues/1,,,,,
+CVE-2021-29942,未开始,https://github.com/tiby312/reorder,https://github.com/tiby312/reorder/issues/1,,,,,
+CVE-2021-28306,未开始,https://github.com/MoAlyousef/fltk-rs,https://github.com/MoAlyousef/fltk-rs/issues/519,,,,,
+CVE-2021-28308,未开始,https://github.com/MoAlyousef/fltk-rs,https://github.com/MoAlyousef/fltk-rs/issues/519,,,,,
+CVE-2021-28027,未开始,https://github.com/tprodanov/bam,https://gitlab.com/tprodanov/bam/-/issues/4,,,,,
+CVE-2021-28028,未开始,https://github.com/antonmarsden/toodee,https://github.com/antonmarsden/toodee/issues/13,ced70c172486fb4827c172cd8238053df3d1dcdb,,,,
+CVE-2021-28030,未开始,https://github.com/bodoni/truetype,https://github.com/bodoni/truetype/issues/11,,,,,
+CVE-2021-28031,未开始,https://github.com/okready/scratchpad,https://github.com/okready/scratchpad/issues/1,891561bea,,,,
+CVE-2021-28032,未开始,https://github.com/bennetthardwick/nano-arena,https://github.com/bennetthardwick/nano-arena/issues/1,6b83f9d0708337a9f8b709c1624a8587021ceba2,,,,
+CVE-2021-28034,未开始,https://github.com/thepowersgang/stack_dst-rs,https://github.com/thepowersgang/stack_dst-rs/issues/5,2a4d538,,,,
+CVE-2021-28035,未开始,https://github.com/thepowersgang/stack_dst-rs,https://github.com/thepowersgang/stack_dst-rs/issues/5,2a4d538,,,,
+CVE-2021-28036,未开始,https://github.com/quinn-rs/quinn,https://github.com/quinn-rs/quinn/issues/968,,,,,
+CVE-2021-28033,未开始,https://github.com/wwylele/byte-struct-rs,https://github.com/wwylele/byte-struct-rs/issues/1,a535678377de12bc6bc22620c5f59bcc1369f76f,,,,
+CVE-2021-28029,未开始,https://github.com/antonmarsden/toodee,https://github.com/antonmarsden/toodee/issues/13,,,,,
+CVE-2021-31919,未开始,https://github.com/djkoloski/rkyv,https://github.com/djkoloski/rkyv/issues/113,9c65ae9c2c67dd949b5c3aba9b8eba6da802ab7e,,,,
+CVE-2021-31162,未开始,https://github.com/rust-lang/rust,https://github.com/rust-lang/rust/issues/83618,,,,,
+CVE-2015-20001,未开始,https://github.com/rust-lang/rust,https://github.com/rust-lang/rust/issues/25842,,,,,
+CVE-2020-36317,未开始,https://github.com/rust-lang/rust,https://github.com/rust-lang/rust/issues/78498,,,,,
+CVE-2020-36318,未开始,https://github.com/rust-lang/rust,https://github.com/rust-lang/rust/issues/79808,,,,,
+CVE-2021-28879,未开始,https://github.com/rust-lang/rust,https://github.com/rust-lang/rust/issues/82282,,,,,
+CVE-2021-28878,rust-lang,https://github.com/rust-lang/rust,https://github.com/rust-lang/rust/issues/82291,"
+c1bfb9a",2371914,2021-3-6,,
+CVE-2021-28876,rust-lang,https://github.com/rust-lang/rust,https://github.com/rust-lang/rust/issues/81740,86a4b27475aab52b998c15f5758540697cc9cff0,,2022-2-13,,
+CVE-2021-30454,完成,https://github.com/SolraBizna/outer_cgi,https://github.com/SolraBizna/outer_cgi/issues/1,dd59b3066e616a08e756f72de8dc3ab11b7036c4,9a7de8af5b54fccfea8f33001c32cecada06a79a,,,issue 中有PoC (Rudra)
+CVE-2021-30455,进行中,https://github.com/andrewhickman/id-map,https://github.com/andrewhickman/id-map/issues/3,,,,,
+CVE-2021-30457,进行中,https://github.com/andrewhickman/id-map,https://github.com/andrewhickman/id-map/issues/3,,,,,
+CVE-2021-30456,进行中,https://github.com/andrewhickman/id-map,https://github.com/andrewhickman/id-map/issues/3,,,,,
+CVE-2021-31996,进行中,https://github.com/AbrarNitk/algorithmica,https://github.com/AbrarNitk/algorithmica/issues/1,,,1.50.0,,无修复版本
+CVE-2020-36432,进行中,https://github.com/dvshapkin/alg-ds,https://gitlab.com/dvshapkin/alg-ds/-/issues/1,,,,,
+CVE-2020-36434,非rust,https://github.com/FillZpp/sys-info-rs,https://github.com/FillZpp/sys-info-rs/issues/63,,,,,
+CVE-2020-36435,完成,https://github.com/RusPiRo/ruspiro-singleton,https://github.com/RusPiRo/ruspiro-singleton/issues/10,b0d2bd20eb40b9cbc2958b981ba2dcd9e6f9396e,,,,
+CVE-2020-36436,完成,https://github.com/udoprog/unicycle,https://github.com/udoprog/unicycle/issues/8,7ca9199793ab5529332dd8b2a04aca257c17f7c0,,,,issue 中有PoC (Rudra)
+CVE-2020-36437,完成,https://github.com/longshorej/conqueue,https://github.com/longshorej/conqueue/issues/9,1e462c32e7933821ddb26dc49fd4ffa5aeca97b8,,,,issue 中有PoC (Rudra)
+CVE-2020-36438,完成,https://github.com/KizzyCode/tiny_future-rust,https://github.com/KizzyCode/tiny_future/issues/1,c7919199a0f6d1ce0e3c33499d1b37f862c990e4,,,,issue 中有PoC (Rudra)
+CVE-2020-36439,完成,https://github.com/kvark/ticketed_lock,https://github.com/kvark/ticketed_lock/issues/7,a986a9335d591fa5c826157d1674d47aa525357f,,,,issue 中有PoC (Rudra)
+CVE-2020-36440,完成,https://github.com/mvertescher/libsbc-rs,https://github.com/mvertescher/libsbc-rs/issues/4,a34d6e1,,,,issue 中有PoC (Rudra)
+CVE-2020-36441,完成,https://github.com/SonicFrog/abox,https://github.com/SonicFrog/abox/issues/1,34c2b9e,,,,issue 中有PoC (Rudra)
+CVE-2020-36442,完成,https://github.com/maciejhirsz/beef,https://github.com/maciejhirsz/beef/issues/37,84ee8a3804afcde1020eae3104095dbfeadb22fc,,,,issue 中有PoC (Rudra)
+CVE-2020-36443,完成,https://github.com/libp2p/rust-libp2p,https://github.com/libp2p/rust-libp2p/issues/1932,5ba266a853bc8232993c84fe736cb87241f95060,,,,issue 中有PoC (Rudra)
+CVE-2020-36444,完成,https://github.com/google/rust-async-coap,https://github.com/google/rust-async-coap/issues/33,ef4aa05cdd3b81ae9f8a42acd211e95530b1ab7c,,,,issue 中有PoC (Rudra)
+CVE-2020-36445,完成,https://github.com/krl/convec,https://github.com/krl/convec/issues/2,88b86e290c7913a42c69bb6fcfc9e7eb585f4dae,,,,issue 中有PoC (Rudra)
+CVE-2020-36446,完成,https://github.com/kitsuneninetails/signal-rust,https://github.com/kitsuneninetails/signal-rust/issues/2,5ded23d4b13bbcdb1bae4267379afffa326a1ef5,,,,issue 中有PoC (Rudra)
+CVE-2020-36452,进行中,https://github.com/L117/array-tools,https://github.com/L117/array-tools/issues/2,,,,,仓库404
+CVE-2020-36464,完成,https://github.com/japaric/heapless,https://github.com/japaric/heapless/issues/181,4ac126e54c7e90dd075f7c44a5347a3c7f4efec8,,,2018,issue 中有PoC
+CVE-2020-36465,完成,https://github.com/fizyk20/generic-array,https://github.com/fizyk20/generic-array/issues/98,100b0f6b15fdd2a9ba19c5ab7ea63a19022d1cd2,,1.41.0,,commit 有测试代码
+CVE-2021-38188,完成,https://github.com/icedland/iced,https://github.com/icedland/iced/issues/168,3c607a003e03b773108401d109167d1840487dce,,,2018,"测试代码比较复杂：			const_assert_eq!(Register::ES as u32 + 1, Register::CS as u32);"
+CVE-2021-38190,完成,https://github.com/dimforge/nalgebra,https://github.com/dimforge/nalgebra/issues/883,a803271fcce75b7c151e92aa099dfa546db4adc5,,,2018,有测试代码：https://github.com/dimforge/nalgebra/commit/5bff5368bf38ddfa31416e4ae9897b163031a513#diff-17bb262f651111544c3b0f3fa61eb40e19f9f5c38904a520975fe822dd117989R43
+CVE-2021-38192,完成,https://github.com/tokio-rs/prost,https://github.com/tokio-rs/prost/issues/438,59f2a7311dd6540696bfd0145f5281ce495f4385,,,,有PoC
+CVE-2022-2274,进行中,https://github.com/openssl/openssl,https://github.com/openssl/openssl/issues/18625,,,,,硬件相关
+CVE-2020-22429,进行中,https://github.com/redox-os/relibc,https://gitlab.redox-os.org/redox-os/relibc/issues/159,,,,,代码在gitlab，有文本描述如何实现，但暂时未找到commit信息
+CVE-2023-36184,恶意输入问题,https://github.com/MystenLabs/sui,https://github.com/move-language/move/issues/1059,8b681515c0cf435df2a54198a28ab4ef574d202b,,,,预防DoS 攻击
+CVE-2023-41051,safe  转 unsafe,https://github.com/rust-vmm/vm-memory,https://github.com/rust-vmm/vm-memory/issues/250,aff1dd4a5259f7deba56692840f7a2d9ca34c9c8,,,,提到某些方法可能需要标注unsafe，可能不适合
+CVE-2024-27308,完成,https://github.com/tokio-rs/mio,https://github.com/tokio-rs/tokio/issues/6369,90d4fe00df870acd3d38f3dc4face9aacab8fbb9,,,2021,有完整PoC
+CVE-2017-1000430,完成,https://github.com/alicemaz/rust-base64,https://github.com/marshallpierce/rust-base64/issues/28,24ead980daf11ba563e4fb2516187a56a71ad319,,,2015,commit中有测试代码，可尝试构建
+CVE-2018-20998,完成,https://github.com/arrayfire/arrayfire-rust,https://github.com/arrayfire/arrayfire-rust/issues/176,a5256f3e5e23b83eaad69699e0b04653aba04fb8,,,2018,
+CVE-2018-21000,完成,https://github.com/nabijaczleweli/safe-transmute-rs,,a134e06d740f9d7c287f74c0af2cd06206774364,,,,无测试代码，但逻辑较为简单，可手动复现
+CVE-2018-20992,进行中,https://github.com/ruuda/claxon,,8f28ec275e412dd3af4f3cda460605512faf332c,,,,
+CVE-2018-25001,完成,https://github.com/jnqnfe/pulse-binding-rust,https://github.com/jnqnfe/pulse-binding-rust/commit/9e31c82d71749619387cb9d0c9698134d05b28c9#diff-371fd6e2078ef2e15bf9f073bf7bcf07b5e4a8c6233b1c81e55a3d3480d0471eL273,9e31c82d71749619387cb9d0c9698134d05b28c9,,,,无版本信息，commit中有测试代码
+CVE-2019-25001,恶意输入问题,https://github.com/pyfisch/cbor,,1aec4f9d71855dbfb223fa61ca60260400cc5d5f,,,,
+CVE-2020-35866,进行中,https://github.com/rusqlite/rusqlite,,c9ef5bd63cad5c0c123344c072b490a1a9bcbe1f,,,,加上unsafe 用于标识 unsound
+CVE-2020-35870,进行中,https://github.com/rusqlite/rusqlite,,2ef3628dac35aeba0a97d5fb3a57746b4e1d62b3,,,,
+CVE-2020-35873,进行中,https://github.com/rusqlite/rusqlite,,ac30e169ae51b262bc8cf7026469851ce39b23c6,,,,
+CVE-2020-35917,完成,https://github.com/PyO3/pyo3,https://github.com/PyO3/pyo3/pull/1297,8f81f595dd770b586c7ca7195b42004a6c976eb9,,,2018,从 safe 转到 unsafe
+CVE-2020-35923,完成,https://github.com/reem/rust-ordered-float,https://github.com/reem/rust-ordered-float/pull/71,da4a8dd49300740a434c095a9c4b408d2415cc08,,,,不依赖std
+CVE-2021-43790,进行中,https://github.com/bytecodealliance/lucet,,7c7757c772fb709c61b1442bcc1e1fbee97bf4a8,,,,
+CVE-2021-45702,safe 漏洞问题,https://github.com/tremor-rs/tremor-runtime,,1a2efcdbe68e5e7fd0a05836ac32d2cde78a0b2e,,,,
+CVE-2021-32629,safe 漏洞问题,https://github.com/bytecodealliance/wasmtime,,95559c01aaa7c061088a433040f31e8291fb09d0,,,,
+CVE-2021-29511,safe 漏洞问题,https://github.com/rust-blockchain/evm,,19ade858c430ab13eb562764a870ac9f8506f8dd,,,,
+CVE-2021-3520,非rust,https://github.com/lz4/lz4,,8301a21773ef61656225e264f4f06ae14462bca7,,,,
+CVE-2021-3543,非rust,https://github.com/aws/aws-nitro-enclaves-cli,,1d0307fd82653b6b6aa1dcb1b3e34321d18ea900,,,,
+CVE-2021-39218,进行中,https://github.com/bytecodealliance/wasmtime,,398a73f0dd862dbe703212ebae8e34036a18c11c,,,,
+CVE-2021-39216,进行中,https://github.com/bytecodealliance/wasmtime,,101998733b74624cbd348a2366d05760b40181f3,,,,
+CVE-2021-39228,进行中,https://github.com/tremor-rs/tremor-runtime,,1a2efcdbe68e5e7fd0a05836ac32d2cde78a0b2e,,,,
+CVE-2022-21685,进行中,https://github.com/paritytech/frontier,,8a93fdc6c9f4eb1d2f2a11b7ff1d12d70bf5a664,,,,
+CVE-2022-39392,进行中,https://github.com/bytecodealliance/wasmtime,,e60c3742904ccbb3e26da201c9221c38a4981d72,,,,
+CVE-2022-39394,进行中,https://github.com/bytecodealliance/wasmtime,,5b6d5e78de106503b3b9add218bb3d2b1d63c493,,,,
+CVE-2022-23523,进行中,https://github.com/rust-vmm/linux-loader,,a44f152da4f38c538ed492b1efa8515be2047db2,,,,
+CVE-2022-23636,进行中,https://github.com/bytecodealliance/wasmtime,,886ecc562040bef61faf19438c22285c2d62403a,,,,
+CVE-2022-24791,进行中,https://github.com/bytecodealliance/wasmtime,,666c2554ea0e1728c35aa41178cf235920db888a,,,,
+CVE-2021-3743,非rust,https://github.com/torvalds/linux,,7e78c597c3ebfd0cb329aa09a838734147e4f117,,,,
+CVE-2022-31146,进行中,https://github.com/bytecodealliance/wasmtime,,2ba4bce5cc719e5a74e571a534424614e62ecc41,,,2021,
+CVE-2022-25903,完成,https://github.com/locka99/opcua,https://github.com/locka99/opcua/issues/212,e75dada28a40c3fefc4aeee4cdc272e1b748f8dd,,,2018,
+CVE-2022-36008,进行中,https://github.com/paritytech/frontier,,fff8cc43b7756ce3979a38fc473f38e6e24ac451,,,2021,
+CVE-2022-35922,进行中,https://github.com/websockets-rs/rust-websocket,,cbf6e9983e839d2ecad86de8cd1b3f20ed43390b,,,2018,
+CVE-2022-36086,进行中,https://github.com/rust-osdev/linked-list-allocator,,013b0758643943e8df5b17bbb495460ff47e8bbf,,,,
+CVE-2023-28448,进行中,https://github.com/firecracker-microvm/versionize,,a57a051ba006cfa3b41a0532f484df759e008d47,,,,
+CVE-2023-26489,非rust,https://github.com/bytecodealliance/wasmtime,,63fb30e4b4415455d47b3da5a19d79c12f4f2d1f,,,,
+CVE-2023-4863,非rust,https://github.com/webmproject/libwebp,,902bc9190331343b2017211debcec8d2ab87e17a,,,,
+CVE-2024-27284,进行中,https://github.com/Metaswitch/cassandra-rs,,ae054dc8044eac9c2c7ae2b1ab154b53ca7f8df7,,,2018,
+CVE-2024-28123,进行中,https://github.com/wasmi-labs/wasmi,,f7b3200e9f3dc9e2cbca966cb255c228453c792f,,,2021,
+CVE-2024-44073,进行中,https://github.com/rust-bitcoin/rust-miniscript,,5b0f5e3417f027a22b066debf825dbe6644b575b,,,2018,
