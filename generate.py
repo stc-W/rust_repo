@@ -178,8 +178,6 @@ for index, row in complete.iterrows():
 with open("failed_list.txt", "w") as f:
     for item in failed_list:
         f.write(f"{item}\n")
-        f.flush()
-        f.close()
 
    
         
