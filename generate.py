@@ -92,12 +92,14 @@ for index, row in complete.iterrows():
     elif pd.isna(row["std_version"]):
         complete.at[index, "std_version"] = edition[row["edition"]]
 
+failed_list = []
+
 for index, row in complete.iterrows():
     # Save the rust projects to the "dataset" directory
     if not os.path.exists("dataset"):
         os.makedirs("dataset")
     dataset_path = "dataset"
-    failed_list = []
+
     try:
         cve_id = row["cve_id"]
         edition = row["edition"]
@@ -173,11 +175,11 @@ for index, row in complete.iterrows():
         print(f"Err message: {e}")
         failed_list.append(cve_id)
         
-    with open("failed_list.txt", "w") as f:
-        for item in failed_list:
-            f.write(f"{item}\n")
-            f.flush()
-            f.close()
+with open("failed_list.txt", "w") as f:
+    for item in failed_list:
+        f.write(f"{item}\n")
+        f.flush()
+        f.close()
 
    
         
